@@ -1,13 +1,13 @@
 ## Hi there!	I'm Oly 
 
-### :woman_technologist: Front-end Developer focusing on React stack
+### :woman_technologist: Front-end Developer focusing on React stack :rocket:
 
 Passionate about building awesome user interfaces
 
 ---
 :art: I’m currently working on a portfolio for my vector illustrations. It used to be my hobby a while ago :)
 
-:seedling: I'm currently learning TypeScript, Redux & Jest
+:seedling: I'm interested in learning TypeScript, Jest & Redux
 
 :woman_office_worker: I have 3,5 years of experience in IT as a System Analyst & Technical Writer
 
