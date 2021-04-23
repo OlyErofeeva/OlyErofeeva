@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there!	I'm Oly 
 
-<!--
-**OlyErofeeva/OlyErofeeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :woman_technologist: Front-end Developer focusing on React stack
 
-Here are some ideas to get you started:
+Passionate about building awesome user interfaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+:art: I’m currently working on a portfolio for my vector illustrations. It used to be my hobby a while ago :)
+
+:seedling: I'm currently learning TypeScript, Redux & Jest
+
+:woman_office_worker: I have 3,5 years of experience in IT as a System Analyst & Technical Writer
+
+:dancers: I enjoy working in a team and sharing my knowledge with others. I'd love to collaborate on any project with ReactJS!
+
+:mailbox: How to reach me: 
+  - olly.erofeeva@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/oly-erofeeva/)
