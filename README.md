@@ -5,7 +5,7 @@
 Passionate about building awesome user interfaces
 
 ---
-:art: I’m currently working on a portfolio for my vector illustrations. It used to be my hobby a while ago :)
+:art: I’m currently working on a portfolio for my vector illustrations. It used to be my hobby a while ago, and I have some cool works to show :)
 
 :seedling: I'm interested in learning TypeScript, Jest & Redux
 
