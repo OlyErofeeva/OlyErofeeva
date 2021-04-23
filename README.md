@@ -11,7 +11,7 @@ Passionate about building awesome user interfaces
 
 :woman_office_worker: I have 3,5 years of experience in IT as a System Analyst & Technical Writer
 
-:dancers: I enjoy working in a team and sharing my knowledge with others. I'd love to collaborate on any project with ReactJS!
+:dancers: I enjoy working in a team and sharing my knowledge with others. I'd love to collaborate on any ReactJS project!
 
 :mailbox: How to reach me: 
   - olly.erofeeva@gmail.com
