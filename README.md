@@ -5,11 +5,13 @@
 Passionate about building awesome user interfaces
 
 ---
-:woman_farmer: I'm currently working for [Agro.Club](https://agro.club/)
+:shell: I'm currently working on my own project, but will soon be looking for a job in the Netherlands
 
-:seedling: I'm interested in learning TypeScript, Jest & Redux
+:seedling: I'm interested in learning Redux, Cypress & Jest
 
-:woman_office_worker: I have 3,5 years of experience in IT as a System Analyst & Technical Writer
+:woman_farmer: I used to work for [Agro.Club](https://agro.club/) as a Frontend Developer for 1,5 years
+
+:woman_office_worker: I also have 3,5 years of experience in IT as a System Analyst & Technical Writer
 
 :dancers: I enjoy working in a team and sharing my knowledge with others
 
